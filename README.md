@@ -4,10 +4,10 @@ In this project, you will build a classification model to analyze EEG data and c
 different categories. EEG data is widely used in neuroscience and medical fields, including the
 diagnosis of epilepsy. You will be using two EEG datasets to train and evaluate your model.
 Datasets:
-1. CHB-MIT EEG Database
+1. CHB-MIT EEG Database </br>
 This dataset contains EEG recordings from patients with epilepsy. It includes
 various seizure types and non-seizure data.
-2. Bonn EEG Dataset
+2. Bonn EEG Dataset </br>
 This dataset contains EEG recordings with a focus on epileptic seizures.
 Tasks:
 1. Data Preprocessing:
